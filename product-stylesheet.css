@@ -207,6 +207,8 @@ body {
 	.product-details-section {
 		width: 100%;
 		--gap: 1rem;
+
+		padding: 2.5rem;
 	}
 
 	.product-name,
