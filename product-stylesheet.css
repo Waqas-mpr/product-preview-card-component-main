@@ -207,19 +207,19 @@ body {
 	.product-details-section {
 		width: 100%;
 		--gap: 1rem;
-
 		padding: 2.75rem;
 	}
 
 	.product-name,
 	.product-description {
 		margin-bottom: 1rem;
+		padding-right: 0.75rem;
 		text-align: left;
 	}
 
 	.product-description {
 		letter-spacing: 0.075rem;
-		font-size: var(--fs-300);
+		font-size: var(--fs-400);
 	}
 	.product-price {
 		margin-top: 2rem;
